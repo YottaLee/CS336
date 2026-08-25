@@ -14,6 +14,7 @@ outputs/
 *.ckpt
 
 # Assignment-local environment/cache directories
+assignments/assignment1-basics/
 **/.pytest_cache/
 **/.mypy_cache/
 **/.ruff_cache/
