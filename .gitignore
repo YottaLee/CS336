@@ -1,0 +1,20 @@
+# Local study notes and scratch outputs
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+
+# ML data and artifacts
+data/
+checkpoints/
+outputs/
+*.pt
+*.pth
+*.safetensors
+*.ckpt
+
+# Assignment-local environment/cache directories
+**/.pytest_cache/
+**/.mypy_cache/
+**/.ruff_cache/
+**/.cache/
