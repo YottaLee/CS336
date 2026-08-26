@@ -14,7 +14,8 @@ outputs/
 *.ckpt
 
 # Assignment-local environment/cache directories
-assignments/assignment1-basics/
+# Keep the Assignment 1 source in this parent repository.
+/.assignment1-git-history/
 **/.pytest_cache/
 **/.mypy_cache/
 **/.ruff_cache/
