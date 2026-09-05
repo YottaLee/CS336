@@ -1,7 +1,6 @@
 import os
 from collections import defaultdict
 from typing import Iterable, Iterator
-
 import regex
 
 GPT2_PAT = r"""'(?:[sdmt]|ll|ve|re)| ?\p{L}+| ?\p{N}+| ?[^\s\p{L}\p{N}]+|\s+(?!\S)|\s+"""
